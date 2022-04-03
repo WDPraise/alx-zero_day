@@ -1,4 +1,1 @@
-git fetch 
-git checkout
-git merge
-git rebase
+git status
